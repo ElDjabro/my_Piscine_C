@@ -1,0 +1,7 @@
+#------------------------------------------------------------------------------
+# $File: ft_magic,v 1.0 2017/08/29 Yacine DJABRI
+# file: Detecte les fichier de type '42 file' constitue 
+#			de la chaine '42' a l'octet 42
+#
+42		string         42 			42 file
+

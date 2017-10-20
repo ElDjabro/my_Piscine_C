@@ -1,0 +1,6 @@
+Credentials cache: API:92EBCDC1-CCF9-42A4-88C9-A10A373675D6
+        Principal: ydjabri@42.FR
+
+  Issued                Expires               Principal
+Aug 28 17:27:10 2017  Sep  4 17:27:10 2017  krbtgt/42.FR@42.FR
+Aug 28 17:39:00 2017  Sep  4 17:27:10 2017  host/vgs-fn1.42.fr@42.FR
